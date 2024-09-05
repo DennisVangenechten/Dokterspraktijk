@@ -81,36 +81,6 @@ This project is a PHP-based medical consultation management system, designed to 
 - A **web server** such as Apache or Nginx
 - A **relational database** (MySQL, PostgreSQL, etc.)
 
-### Installation Steps
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-repo/medical-consultation-system.git
-   cd medical-consultation-system
-   ```
-
-2. **Install Dependencies**
-   Run Composer to install required dependencies:
-   ```bash
-   composer install
-   ```
-
-3. **Database Setup**
-   - Create a new database for the project.
-   - Import the SQL schema provided to set up the required tables.
-
-4. **Configure the Application**
-   Update the configuration file with your database credentials and other required settings.
-
-5. **Run the Application**
-   If using PHP’s built-in server:
-   ```bash
-   php -S localhost:8000
-   ```
-
-6. **Access the Application**
-   Open your browser and navigate to `http://localhost:8000/index.php`.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
