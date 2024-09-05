@@ -72,15 +72,6 @@ This project is a PHP-based medical consultation management system, designed to 
 
 - Errors during login, patient creation, and consultations are displayed to the user, and appropriate redirections are handled.
 
-## Installation Guide
-
-### Prerequisites
-
-- **PHP** (>= 7.4)
-- **Composer** for dependency management
-- A **web server** such as Apache or Nginx
-- A **relational database** (MySQL, PostgreSQL, etc.)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
